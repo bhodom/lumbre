@@ -1,0 +1,9 @@
+{
+  "name": "Lumbre — lector de feeds",
+  "short_name": "Lumbre",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f5f1",
+  "theme_color": "#1f3b4d",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
